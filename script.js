@@ -1,3 +1,4 @@
+$ = jQuery;
 $(function () {
     // Submit Form Event
     var $form = $('.vd_form');
